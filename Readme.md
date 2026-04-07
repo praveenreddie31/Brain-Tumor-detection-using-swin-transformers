@@ -7,3 +7,6 @@ https://drive.google.com/file/d/1MatTK1xC3KP4DnVpdTGoXZC33yjugHwD/view?usp=shari
 
 After downloading, place it in:
 models/best_model.pth
+
+Dataset link:
+https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset
